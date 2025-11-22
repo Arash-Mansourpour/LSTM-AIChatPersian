@@ -1,6 +1,14 @@
 LSTM-AIChatPersian: A Persian RAG Chatbot
 This repository contains the development of a Persian Retrieval-Augmented Generation (RAG) chatbot. The project aims to create an intelligent conversational AI capable of understanding and responding effectively in the Persian language.
 
+Demo 1
+
+🎥 Watch.mp4: [https://github.com/Arash-Mansourpour/ultimate-crypto-trading-bot/blob/main/crypto1.mp](https://github.com/Arash-Mansourpour/LSTM-AIChatPersian/blob/main/%DA%86%D8%AA%20%D8%A8%D8%A7%D8%AA%201.mp4)
+
+Demo 2
+
+🎥 Watch.mp4: [https://github.com/Arash-Mansourpour/ultimate-crypto-trading-bot/blob/main/crypto2.mp4](https://github.com/Arash-Mansourpour/LSTM-AIChatPersian/blob/main/%DA%86%D8%AA%20%D8%A8%D8%A7%D8%AA%201%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87.mp4)
+
 Key Features
 Advanced Deep Learning Techniques: Utilizes LSTM (Long Short-Term Memory) with attention mechanisms for robust language processing.
 
